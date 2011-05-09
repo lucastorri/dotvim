@@ -1,0 +1,11 @@
+map <F4> :TMiniBufExplorer<CR>
+
+hi MBEVisibleChangedActive guifg=#5DC2D6 guibg=fg
+hi MBEVisibleChanged guifg=#5DC2D6 guibg=fg
+hi MBEVisibleNormal guifg=#5DC2D6 guibg=fg
+hi MBEChanged guifg=#5DC2D6 guibg=fg
+hi MBENormal guifg=#808080 guibg=fg
+
+nmap <C-Tab> :bnext! <CR>
+nmap <S-C-Tab> :bprevious! <CR>
+nmap <Leader>bc :bw! <CR>

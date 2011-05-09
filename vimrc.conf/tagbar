@@ -1,0 +1,4 @@
+let g:tagbar_ctags_bin = '/usr/local/Cellar/ctags/5.8/bin/ctags'
+map <F3> :TagbarToggle <CR>
+imap <F3> <Esc>:TagbarToggle<CR>
+let g:tagbar_width = 32

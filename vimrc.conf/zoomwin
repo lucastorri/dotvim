@@ -1,0 +1,3 @@
+set noequalalways
+
+map <Leader><Leader> :ZoomWin<CR>

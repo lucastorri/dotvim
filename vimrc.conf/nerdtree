@@ -1,0 +1,3 @@
+let NERDTreeIgnore=['\.pyc$', '\.rbc$', '\~$']
+
+map <F2> :NERDTreeToggle \| :silent NERDTreeMirror<CR>
