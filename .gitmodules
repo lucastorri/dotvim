@@ -55,3 +55,6 @@
 [submodule "bundle/conque_term"]
 	path = bundle/conque_term
 	url = https://github.com/rosenfeld/conque-term.git
+[submodule "bundle/autoclose"]
+	path = bundle/autoclose
+	url = https://github.com/Townk/vim-autoclose.git

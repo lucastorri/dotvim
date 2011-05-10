@@ -6,6 +6,11 @@ hi MBEVisibleNormal guifg=#5DC2D6 guibg=fg
 hi MBEChanged guifg=#5DC2D6 guibg=fg
 hi MBENormal guifg=#808080 guibg=fg
 
-nmap <C-Tab> :bnext! <CR>
-nmap <S-C-Tab> :bprevious! <CR>
+let g:miniBufExplMapCTabSwitchBufs = 1
+let g:miniBufExplMapWindowNavArrows = 1 
+let g:miniBufExplModSelTarget = 1 
+let g:bufExplorerShowRelativePath = 1
+
+"nmap <C-Tab> :bnext! <CR>
+"nmap <S-C-Tab> :bprevious! <CR>
 nmap <Leader>bc :bw! <CR>
