@@ -61,3 +61,6 @@
 [submodule "bundle/gundo"]
 	path = bundle/gundo
 	url = http://github.com/sjl/gundo.vim.git
+[submodule "bundle/javacomplete"]
+	path = bundle/javacomplete
+	url = https://github.com/VictorDenisov/javacomplete
