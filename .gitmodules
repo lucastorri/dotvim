@@ -64,3 +64,6 @@
 [submodule "bundle/javacomplete"]
 	path = bundle/javacomplete
 	url = https://github.com/VictorDenisov/javacomplete
+[submodule "bundle/css_color"]
+	path = bundle/css_color
+	url = https://github.com/skammer/vim-css-color
