@@ -22,8 +22,8 @@
 [submodule "bundle/scala"]
 	path = bundle/scala
 	url = https://github.com/guilleiguaran/scala.vim.git
-[submodule "bundle/submodule"]
-	path = bundle/submodule
+[submodule "bundle/nerdcommenter"]
+	path = bundle/nerdcommenter
 	url = https://github.com/scrooloose/nerdcommenter.git
 [submodule "bundle/align"]
 	path = bundle/align
