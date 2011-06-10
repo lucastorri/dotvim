@@ -24,7 +24,8 @@ set directory=~/.vim/backup
 set showcmd
 
 syntax on
-colors ir_black
+"colors ir_black
+colors wombat
 
 if has("autocmd")
   au BufReadPost * if line("'\"") > 0 && line("'\"") <= line("$")
